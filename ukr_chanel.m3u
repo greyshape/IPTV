@@ -1,0 +1,16 @@
+﻿#EXTM3U
+
+#EXTINF:-1,ТРК Украина
+https://kv-g50-mc06.ollcdn.net/trku-live/18/ae9a98b1a72d6e65daad9b5767ed01ef/5bde32fc/ukraina/ukraina20180923T0200373.m3u8
+
+#EXTINF:-1,1+1
+http://50.7.127.60:8081/1pl1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg28da26f61a3736471b25383cf8087097T04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+#EXTINF:-1,2+2
+http://50.7.127.60:8081/2pl2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg949750ed2cd436ae5493044343b4fdacT04vYzhuTTArS2Z3PT0mdmFsaWRtaW51dGVzPTIwMA==
+
+#EXTINF:-1,112
+http://178.165.56.35:8011/udp/239.0.0.18:1234
+
+#EXTINF:-1,5
+http://51.15.56.212:8081/tv/5-kanal-ua/chunks.m3u8?nimblesessionid=8133936&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMy8yMDE4IDEwOjQ1OjU4IEFNJmhhc2hfdmFsdWU9UXZncGlqNnVGc0luMEpVcVp1dWRHQT09JnZhbGlkbWludXRlcz03MjA=
